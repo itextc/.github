@@ -3,5 +3,5 @@ Islāmic Text Copier (**ITC** abbreviated) is an open-source, simple but very us
 
 Originally, I (`@nasiratif`) made it just for myself to use to make writing articles easier, but decided to publish it as it would be useful for others as well.
 
-<button>[Downlaod for Windows](itc.nasiratif.net)</button><br>
+<button>[Downlaod for Windows](https://itc.nasiratif.net)</button><br>
 ***(coming soon for Mac)** 
